@@ -37,7 +37,7 @@ function Todos() {
                 aria-hidden="true"
                 className="absolute left-0 top-0 bottom-0 w-0.5 bg-amber-400/0 group-hover:bg-amber-400/60 transition-colors duration-200 rounded-l-lg"
               />
-              <span className="text-stone-200 text-[15px] leading-snug pr-4 break-words">
+              <span className="text-stone-200 text-[15px] leading-snug pr-4 ">
                 {todo.text}
               </span>
               <button
@@ -51,7 +51,7 @@ function Todos() {
                   viewBox="0 0 24 24"
                   strokeWidth={1.5}
                   stroke="currentColor"
-                  className="w-[18px] h-[18px]"
+                  className="w-18px h-18px"
                 >
                   <path
                     strokeLinecap="round"
