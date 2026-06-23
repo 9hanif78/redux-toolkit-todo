@@ -6,6 +6,9 @@ A minimalist todo app built with React and Redux Toolkit. The focus is on clean 
 
 Most todo app tutorials stop at "it works." This one is meant to be looked at: a deliberate type pairing, a single accent color used with intent, and an interface that handles its edge cases (empty list, blank input) instead of ignoring them.
 
+## Live Demo
+##: https://redux-toolkit-todo-kappa.vercel.app/
+
 ## Built with
 
 - React
